@@ -140,6 +140,41 @@ cd frontend
 ```bash
 npm run dev
 ```
+## 🧪 Demo Accounts
+
+### 👨‍💻 Admin Login
+- **Email**: `admin@trendify.com`  
+- **Password**: `admin@123`
+
+### 🙋 User Login
+- **Register** directly from the frontend app
+
+---
+
+## 🛠️ Tech Stack
+
+- **MongoDB** – Database  
+- **Express.js** – Backend framework  
+- **React.js** – Frontend library  
+- **Node.js** – Runtime environment  
+- **Stripe** – Payment gateway  
+- **JWT** – Secure authentication  
+- **Cloudinary** – Image management  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Follow these steps:
+
+1. **Fork** the repository  
+2. **Create a new branch** → `git checkout -b feature-name`  
+3. **Commit changes** → `git commit -m "Add feature"`  
+4. **Push** → `git push origin feature-name`  
+5. **Open a Pull Request**  
+
+---
+
 
 Open [http://localhost:5174](http://localhost:5174) in your browser to view the admin dashboard.
 
